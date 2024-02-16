@@ -14,7 +14,7 @@ import { Button } from "@/components/button";
 import { Feather } from "@expo/vector-icons";
 import { LinkButton } from "@/components/link-button";
 
-const PHONE_NUMBER = "5511989845923"
+const PHONE_NUMBER = "112233445566"
 
 export default function Cart() {
   const [address, setAddress] = useState('');
