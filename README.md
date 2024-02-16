@@ -4,18 +4,18 @@
 
 # Orders App - React Native & TypeScript
 
-
+A delivery service application that allows customers to select food and automatically send a message on the restaurant's WhatsApp.
 
 # Technologies Used ✅
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=ts" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
 </a>
 
 ## and other technologies such as:
 
 - [`WhatsApp API`](https://api.whatsapp.com/send?phone) - used to send messages to the restaurant.
+- [`nativewindcss`](https://api.whatsapp.com/send?phone) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 
 ## Developed at NLW Expert by Rocketseat:
 
